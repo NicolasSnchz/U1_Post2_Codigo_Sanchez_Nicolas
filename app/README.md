@@ -1,3 +1,23 @@
-# App Android - Ecosistema Movil
+# \# App Android - Ecosistema Movil
 
-Estructura base del proyecto Android para simular flujo GitFlow.
+# 
+
+# \## Descripción
+
+# Estructura base del módulo principal de la aplicación móvil.
+
+# 
+
+# \## Contenido inicial
+
+# \- AndroidManifest.xml
+
+# \- MainActivity.kt
+
+# \- activity\_main.xml
+
+\- carpetas base src/main y src/test
+
+## Prueba de cambio
+===
+
