@@ -18,6 +18,9 @@
 
 \- carpetas base src/main y src/test
 
+FIX: Corrected build config
+
 ## Prueba de cambio
+
 ===
 
